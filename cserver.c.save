@@ -1,0 +1,34 @@
+        
+
+	listenfd = socket(AF_UNIX, SOCK_STREAM, DEFAULT_PROTOCOL);
+        serverAddr.sun_family = AF_UNIX;
+        strcpy(serverAddr.sun_path, "convert");
+        unlink("convert");
+        bind(listenfd, (struct sockaddr *) &serverAddr, sizeof(serverAddr));
+
+        listen(listenfd, 5);
+
+        while(1) {
+                connfd = accept(listenfd, (struct sockaddr *) &clientAddr, & clientlen);
+                if (fork() == 0) {
+                        readLine(connfd, inmsg);
+                        toUpper(inmsg, outmsg);
+                        write(connfd, outmsg, strlen(outmsg)+1);
+                        close(connfd);
+                        exit(0);
+                } else {
+        close(connfd);
+                }
+        }
+}
+
+void toUpper(char* in, char* out) {
+        int i;
+        for (i = 0; i<strlen(in); i++) {
+                if(islower(in[i])) {
+                        out[i] = toupper(in[i]);
+                } else {
+                        out[i] = in[i];
+                }
+        }
+}

@@ -1,0 +1,15 @@
+ait
+cpfile
+cpfile.c
+hlist.txt
+list.txt
+osw
+TA
+wait
+wait.
+wait.c
+wait.c.save
+wat
+week02_test
+week02_test.c
+2022. 05. 03. (화) 11:02:32 KST

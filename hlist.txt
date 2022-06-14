@@ -1,0 +1,40 @@
+    1  $ passwd
+    2  passwd
+    3  young7685$
+    4  mkdir osw
+    5  cd osw
+    6  pwd
+    7  nano week02_test.c
+    8  gcc -o week02_test week02_test.c
+    9  mkdir
+   10  nano week02_test.c
+   11  gcc -o week02_test week02_test.c
+   12  ./week02_test
+   13  ls -a
+   14  ls -s
+   15  ls -l
+   16  ls - asl
+   17  ls -asl
+   18  pwd
+   19  cd osw
+   20  man[ls]
+   21  man ls
+   22  cd
+   23  which bash
+   24  which goc
+   25  hlist.txt
+   26  history > hlist.txt
+   27  cat hlist.txt
+   28  pwd
+   29  history >hlist.xtx
+   30  history > hlist.txt
+   31  ls
+   32  cat h.listy.txt
+   33  cat.hlist.txt
+   34  cat hlist.txt
+   35  ls
+   36  pwd
+   37  ls
+   38  cd osw
+   39  ls
+   40  history > hlist.txt

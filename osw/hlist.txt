@@ -1,0 +1,149 @@
+    1  $ passwd
+    2  passwd
+    3  young7685$
+    4  mkdir osw
+    5  cd osw
+    6  pwd
+    7  nano week02_test.c
+    8  gcc -o week02_test week02_test.c
+    9  mkdir
+   10  nano week02_test.c
+   11  gcc -o week02_test week02_test.c
+   12  ./week02_test
+   13  ls -a
+   14  ls -s
+   15  ls -l
+   16  ls - asl
+   17  ls -asl
+   18  pwd
+   19  cd osw
+   20  man[ls]
+   21  man ls
+   22  cd
+   23  which bash
+   24  which goc
+   25  hlist.txt
+   26  history > hlist.txt
+   27  cat hlist.txt
+   28  pwd
+   29  history >hlist.xtx
+   30  history > hlist.txt
+   31  ls
+   32  cat h.listy.txt
+   33  cat.hlist.txt
+   34  cat hlist.txt
+   35  ls
+   36  pwd
+   37  ls
+   38  cd osw
+   39  ls
+   40  history > hlist.txt
+   41  ls
+   42  cd osw
+   43  pwd
+   44  https://github.com/p1n9u/TA.git
+   45  git clone [ git repo adress ]
+   46  git clone https://github.com/p1n9u/TA.git
+   47  ls
+   48  more input.txt
+   49  more
+   50  more input.txt 
+   51  git clone [ git repo adress ]
+   52  git clone https://github.com/p1n9u/TA.git
+   53  TA
+   54  ls
+   55  cd TA
+   56  more input.txt
+   57  head input.txt
+   58  cd TA
+   59  tail input.txt
+   60  cp input.txt inpu1.txt
+   61  ls
+   62  more input1.txt
+   63  cp input.txt input1.txt
+   64  ls
+   65  more input1.txt
+   66  ls
+   67  mv input1.txt input2.txt
+   68  ls
+   69  mv inpu1.txt input2.txt
+   70  ls
+   71  rm input2.txt
+   72  ls
+   73  touch cpfile.c
+   74  ls
+   75  # include <stdio.h>
+   76  # include <stdlib.h>
+   77  # include <unistd.h>
+   78  # include <fcnt1.h>
+   79  ## definte BUFSIZE 2048
+   80  ls
+   81  # include <stdio.h>
+   82  # include <stdlib.h>
+   83  # include <unistd.h>
+   84  # include <fcnt1.h>
+   85  # define BUFSIZE 2048
+   86  # define PERM 0644
+   87  int main(void) {
+   88  ls
+   89  i
+   90  mkdir osw
+   91  cd osw
+   92  pwd
+   93  osw
+   94  mkdir osw
+   95  cd osw
+   96  pwd
+   97  touch cpfile.c
+   98  nano touchcpfile.c
+   99  cp TA
+  100  more input.txt
+  101  ls
+  102  history >hlist.txt
+  103  cat hlist.txt
+  104  git clone [git repo adress]
+  105  git clone https://github.com/p1n9u/TA.git
+  106  TA
+  107  git clone https://github.com/p1n9u/TA.git
+  108  ls
+  109  TA
+  110  TA week02_test
+  111  ls
+  112  nano TA
+  113  cd osw
+  114  ls
+  115  cd TA
+  116  ls
+  117  nano simplecp.c
+  118  gcc - o test test.c
+  119  cd
+  120  cd osw
+  121  ls
+  122  cd TA
+  123  ls
+  124  nano simple.cp.c
+  125  nano simplecp.c
+  126  ps
+  127  ps -u
+  128  pstree
+  129  pgrep basg
+  130  pgrep bash
+  131  pgrep -1 bash
+  132  sleep
+  133  (echo start; sleep 5; echo end;)
+  134  end
+  135  
+  136  kill %1
+  137  jobs
+  138  mkdir osw
+  139  cd osw
+  140  osw
+  141  ls
+  142  cd osw
+  143  ls
+  144  week02_test.c
+  145  mkdir osw
+  146  cd osw
+  147  pwd
+  148  nano week02_test.c
+  149  history >hlist.txt

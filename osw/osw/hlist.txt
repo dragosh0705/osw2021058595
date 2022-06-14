@@ -1,0 +1,440 @@
+    1  $ passwd
+    2  passwd
+    3  young7685$
+    4  mkdir osw
+    5  cd osw
+    6  pwd
+    7  nano week02_test.c
+    8  gcc -o week02_test week02_test.c
+    9  mkdir
+   10  nano week02_test.c
+   11  gcc -o week02_test week02_test.c
+   12  ./week02_test
+   13  ls -a
+   14  ls -s
+   15  ls -l
+   16  ls - asl
+   17  ls -asl
+   18  pwd
+   19  cd osw
+   20  man[ls]
+   21  man ls
+   22  cd
+   23  which bash
+   24  which goc
+   25  hlist.txt
+   26  history > hlist.txt
+   27  cat hlist.txt
+   28  pwd
+   29  history >hlist.xtx
+   30  history > hlist.txt
+   31  ls
+   32  cat h.listy.txt
+   33  cat.hlist.txt
+   34  cat hlist.txt
+   35  ls
+   36  pwd
+   37  ls
+   38  cd osw
+   39  ls
+   40  history > hlist.txt
+   41  ls
+   42  cd osw
+   43  pwd
+   44  https://github.com/p1n9u/TA.git
+   45  git clone [ git repo adress ]
+   46  git clone https://github.com/p1n9u/TA.git
+   47  ls
+   48  more input.txt
+   49  more
+   50  more input.txt 
+   51  git clone [ git repo adress ]
+   52  git clone https://github.com/p1n9u/TA.git
+   53  TA
+   54  ls
+   55  cd TA
+   56  more input.txt
+   57  head input.txt
+   58  cd TA
+   59  tail input.txt
+   60  cp input.txt inpu1.txt
+   61  ls
+   62  more input1.txt
+   63  cp input.txt input1.txt
+   64  ls
+   65  more input1.txt
+   66  ls
+   67  mv input1.txt input2.txt
+   68  ls
+   69  mv inpu1.txt input2.txt
+   70  ls
+   71  rm input2.txt
+   72  ls
+   73  touch cpfile.c
+   74  ls
+   75  # include <stdio.h>
+   76  # include <stdlib.h>
+   77  # include <unistd.h>
+   78  # include <fcnt1.h>
+   79  ## definte BUFSIZE 2048
+   80  ls
+   81  # include <stdio.h>
+   82  # include <stdlib.h>
+   83  # include <unistd.h>
+   84  # include <fcnt1.h>
+   85  # define BUFSIZE 2048
+   86  # define PERM 0644
+   87  int main(void) {
+   88  ls
+   89  i
+   90  mkdir osw
+   91  cd osw
+   92  pwd
+   93  osw
+   94  mkdir osw
+   95  cd osw
+   96  pwd
+   97  touch cpfile.c
+   98  nano touchcpfile.c
+   99  cp TA
+  100  more input.txt
+  101  ls
+  102  history >hlist.txt
+  103  cat hlist.txt
+  104  git clone [git repo adress]
+  105  git clone https://github.com/p1n9u/TA.git
+  106  TA
+  107  git clone https://github.com/p1n9u/TA.git
+  108  ls
+  109  TA
+  110  TA week02_test
+  111  ls
+  112  nano TA
+  113  cd osw
+  114  ls
+  115  cd TA
+  116  ls
+  117  nano simplecp.c
+  118  gcc - o test test.c
+  119  cd
+  120  cd osw
+  121  ls
+  122  cd TA
+  123  ls
+  124  nano simple.cp.c
+  125  nano simplecp.c
+  126  ps
+  127  ps -u
+  128  pstree
+  129  pgrep basg
+  130  pgrep bash
+  131  pgrep -1 bash
+  132  sleep
+  133  (echo start; sleep 5; echo end;)
+  134  end
+  135  
+  136  kill %1
+  137  jobs
+  138  mkdir osw
+  139  cd osw
+  140  osw
+  141  ls
+  142  cd osw
+  143  ls
+  144  week02_test.c
+  145  mkdir osw
+  146  cd osw
+  147  pwd
+  148  nano week02_test.c
+  149  history >hlist.txt
+  150  cat hlist.txt
+  151  mkdir
+  152  mkdir osw
+  153  cd osw
+  154  pwd
+  155  nano week02_test.c
+  156  cd osw
+  157  nano wait.c
+  158  gcc wait.c -o wait
+  159  nano wait.c
+  160  gcc wait.c -o wait
+  161  nano wait.c
+  162  gcc -o wait.c wait
+  163  gcc wait.c -o wait
+  164  nano wait.c
+  165  gcc wait.c -o wait
+  166  ./wait
+  167  nano wait.c
+  168  gcc wait.c -o wait
+  169  ./wait
+  170  nano wait.c
+  171  gcc wait.c -o wait
+  172  ./wait
+  173  nano wait.c
+  174  gcc wait.c -o wait
+  175  ./wait
+  176  mkdir osw
+  177  cd osw
+  178  pwd
+  179  nano wait.c
+  180  gcc wait.c -o wait
+  181  ./wait
+  182  nano wait.c
+  183  gcc wait.c -o wait
+  184  ./wait
+  185  nano wait.c
+  186  gcc wait.c -o wait
+  187  ./wait
+  188  nano.wait
+  189  nano wait.c
+  190  gcc wait.c -o wat
+  191  /.wait
+  192  ./wait
+  193  nano wait.c
+  194  gcc wait.c -o wait
+  195  ./wait
+  196  nano wait.c
+  197  gcc wait.c -o wait
+  198  nano wait.c
+  199  gcc wait.c -o wait
+  200  ./wait
+  201  nano.c
+  202  nano wakt.c
+  203  nano wait.c
+  204  gcc wait.c -o wait
+  205  nano wait.c
+  206  gcc wait.c -o wait
+  207  ./wait
+  208  nano wait.c
+  209  gcc wait.c -o wait
+  210  ./wait
+  211  wait.c
+  212  nano wait.c
+  213  gcc wait.c -o wait
+  214  nano wait,c
+  215  nano wait.c
+  216  gcc wait.c -o wait
+  217  ./wait
+  218  nano wait.c
+  219  gcc wait.c -o wait
+  220  ./wait
+  221  nano waitc
+  222  nano wait.c
+  223  gcc wait.c -o wait
+  224  ./wait
+  225  nano wait.c
+  226  gcc wait.c -o wait
+  227  ./wait
+  228  nano wait.c
+  229  gcc wait.c -o wait
+  230  ./wait
+  231  nano wait.c
+  232  gcc wait.c -o wait
+  233  ./wait
+  234  nano wait.c
+  235  gcc wait.c -o wait
+  236  ./wait
+  237  nano wait.c
+  238  gcc wait.c -o wait
+  239  ./wait
+  240  nano wait.c
+  241  gcc wait.c -o wait
+  242  ./wait
+  243  nano wait.c
+  244  gcc wait.c -o wait
+  245  ./wait
+  246  nano wait.c
+  247  gcc wait.c -o wait
+  248  ./wait
+  249  nano wait.c
+  250  gcc wait.c -o wait
+  251  ./wait
+  252  nano wait.c
+  253  gcc wait.c -o wait
+  254  ./wait
+  255  nano wait.c
+  256  gcc wait.c -o wait
+  257  nano wait,c
+  258  y
+  259  nano wait.c
+  260  gcc wait.c -o wait
+  261  ./wait
+  262  nano wait.c
+  263  gcc wait.c -o wait
+  264  ./wait
+  265  nano wait.c
+  266  gcc wait.c -o wait
+  267  ./wait
+  268  nano wait.c
+  269  gcc wait.c -o wait
+  270  ./wait
+  271  nano wait.c
+  272  gcc wait.c -o wait
+  273  ./wait
+  274  nano wait.c
+  275  gcc wait.c -o wait
+  276  ./wait
+  277  nano wait.c
+  278  gcc wait.c -o wait
+  279  ./wait
+  280  nano wait.c
+  281  gcc wait.c -o wait.
+  282  ./wait
+  283  nano wait,c
+  284  u
+  285  nano wait.c
+  286  gcc wait.c -o wait
+  287  ./wait
+  288  nano wait.c
+  289  gcc wait.c -0 wait
+  290  gcc wait.c -o wait
+  291  nano wait.c
+  292  gcc wait.c -o wait
+  293  nano wait.c
+  294  y
+  295  gcc wait.c -o ait
+  296  ./wait
+  297  nano wait.c
+  298  gcc wait.c -o wait
+  299  ./wait
+  300  nano wait.c
+  301  gcc wait.c -o wait
+  302  ./wait
+  303  nano wait.c
+  304  gcc wait.c -o wait
+  305  ./wait
+  306  nano wait.c
+  307  gcc wait.c -o wait
+  308  ./wait
+  309  nano wait.c
+  310  gcc wait.c -o wait
+  311  ./wait
+  312  nano wait.c
+  313  gcc wait.c -o wait
+  314  ./wait
+  315  nano wait.c
+  316  pwd
+  317  ls
+  318  nano wait.c
+  319  cd
+  320  mkdir
+  321  mkdir wait.c
+  322  mkdir osw
+  323  cd osw
+  324  pwd
+  325  nano wait.c
+  326  kill -1
+  327  kill-1
+  328  pwd
+  329  ls
+  330  kill -1
+  331  cd osw
+  332  kill -l
+  333  nano newalarm.c
+  334  mkdir osw
+  335  cd osw
+  336  pwd
+  337  nano newalarm.c
+  338  nano newalarm_test.c
+  339  nano newalarm.c
+  340  mkdir sow
+  341  osw
+  342  mkdir osw
+  343  cd osw
+  344  pwd
+  345  nano newalarm.c
+  346  gcc -o newalarm newalarm.c
+  347  nano newalarm.c
+  348  gcc -o newalarm newalarm.c
+  349  nano newalarm.c
+  350  gcc -o newalarm newalarm.c
+  351  nano newalarm.c
+  352  gcc -o newalarm newalarm.c
+  353  ./newalarm.c
+  354  ls
+  355  gcc -o newalarm newalarm.c
+  356  ./newalarm
+  357  nano newalarm.c
+  358  gcc -o newalarm newalarm.c
+  359  ./newalarm
+  360  mkdir osw
+  361  cd osw
+  362  pwd
+  363  nano newalarm.c
+  364  ls
+  365  cd isw
+  366  cd osw
+  367  ls
+  368  cd TA
+  369  osw
+  370  ls
+  371  cd osw
+  372  ls
+  373  nano newalarm.c
+  374  gcc -o newalarm newalarm.c
+  375  ./newalarm
+  376  gcc -o newalarm newalarm.c
+  377  ./newalarm
+  378  nano newalarm.c
+  379  gcc -o newalarm newalarm.c
+  380  ./newalarm
+  381  nano newalarm.c
+  382  ls
+  383  rm newalarm
+  384  gcc -o newalarm newalarm.c
+  385  ./newalarm
+  386  gcc -o newalarm.c
+  387  nano newalar.c
+  388  nano newalarm.c
+  389  gcc -o newalarm newalarm.c
+  390  ./newalarm
+  391  nano newalarm.c
+  392  ls
+  393  mkdir osw
+  394  cd osw
+  395  osw pwd
+  396  wait.c
+  397  nano wait.c
+  398  gcc -o wait wait.c
+  399  nano wait.c
+  400  gcc -o wait wait.c
+  401  ./wait
+  402  nano wait.c
+  403  gcc -o wait wait.c
+  404  ./wait
+  405  nano wait.c
+  406  mkdir osw
+  407  osw
+  408  pwd
+  409  nano wait.c
+  410  cd osw
+  411  pwd
+  412  nano wait.c
+  413  gcc -o wait wait.c
+  414  ../wait
+  415  ./wait.c
+  416  ./wait
+  417  nano wait.c
+  418  gcc -o wait wait.c
+  419  ./wait
+  420  nano simplecp.c
+  421  nano cpfile.c
+  422  nano simple.c
+  423  nano cpfile.c
+  424  mkdir osw
+  425  cd osw
+  426  pwe
+  427  nano cpfile.c
+  428  nano sleep.c
+  429  nano newalarm.c
+  430  mkdir osw
+  431  cd osw
+  432  pwd
+  433  nano newalarm.c
+  434  gcc -o newalarm newalarm.c
+  435  ./newalarm
+  436  mkdir
+  437  cd osw
+  438  pwd
+  439  nano cpfile.c
+  440  history > hlist.txt
